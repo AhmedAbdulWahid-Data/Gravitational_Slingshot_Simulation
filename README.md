@@ -11,17 +11,7 @@ This simulation allows you to create your own spacecraft and see how they intera
 - **Space Simulation**: Planet? Check! Spaceships? Check! Gravity? Oh yes! 🚀
 
 ### 💡 How Does It Work?
-The spacecraft are affected by the gravitational force of the planet using **Newton’s law of gravitation**. This formula is like the magic behind the scenes:
-
-\[
-F = \frac{{G \cdot m_1 \cdot m_2}}{{r^2}}
-\]
-
-Where:
-- \( F \) is the gravitational force (how hard the planet pulls the spaceship).
-- \( G \) is the gravitational constant (space's special number for pulling things together).
-- \( m_1 \) and \( m_2 \) are the masses of the planet and the spacecraft.
-- \( r \) is the distance between them.
+The spacecraft are affected by the gravitational force of the planet using **Newton’s law of gravitation**.
 
 As the spacecraft gets closer to the planet, the force increases and the ship speeds up. Get ready for a cosmic ride! 🌌💨
 
